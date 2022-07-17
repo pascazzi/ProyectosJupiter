@@ -1,0 +1,7 @@
+﻿Paciente;Nombre;Precio;es socio;preciosinformato
+10;Pepe;$ 99,90;si;99,90
+20;Juan;$ 200,00;si;200,00
+30;Pablo;$ 300,00;si;300,00
+40;Jose;$ 400,00;no;400,00
+50;Maria;$ 500,00;no;500,00
+60;Carmen;$ 600,00;no;600,00
